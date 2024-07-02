@@ -19,7 +19,7 @@ Va guardando los IDs de las propiedades ya notificadas en un `deptos.json`.
 * Sacar imagen cada objeto y usarla para las notis
 
 ### EXTRAS
-* Customizar la query con argumentos que se pasan al programa
+* ~~Customizar la query con argumentos que se pasan al programa~~
 * Permitir sacar los dicts con opciones para las queries afuera del main script
 * Conectar con bot Telegram
 * Tutorial de queries y opciones disponibles 
